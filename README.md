@@ -17,12 +17,12 @@ Outside of these, I like to create in other ways. From Turkish folk dances to mu
 <a href="https://linkedin.com/in/onurzorluer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="onur_zorluer" height="30" width="30" /></a>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=onurzorluer&show_icons=true&theme=nord" alt="onurzorluer" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=onurzorluer&show_icons=true&theme=react" alt="onurzorluer" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onurzorluer&repo=react-image-file-resizer&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onurzorluer&repo=react-image-file-resizer&theme=react" />
 </a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onurzorluer&repo=exif-auto-rotate&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onurzorluer&repo=exif-auto-rotate&theme=react" />
 </a>
   </p>
 
