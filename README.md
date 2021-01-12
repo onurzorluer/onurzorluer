@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
-<h3 align="center">Security Engineer, Javascript Developer</h3>
+<h3 align="center">Web & Mobile Developer</h3>
 <p align="center">
-Hi! I have a bachelor's degree in computer engineering from Ege University. I'm skilled in both frontend (JS and React) and mobile (React Native) technologies. And my passion lies in the cyber security, at the intersection of computer and human.
+Hi! I have a bachelor's degree in computer engineering from Ege University. I'm skilled in both frontend (React) and mobile (React Native) technologies. Also I skilled about application (web & mobile) security. And my passion lies on the creating something useful and valuable, at the intersection of code and human.
 </p>
 <br>
 <p align="center">
-Outside of these, I like to create in other ways. From Turkish folk dances to music-making, scuba diving to entrepreneurship, I'm always trying new ways of expressing and discovering myself.
+Outside of these, I like to create in other ways. From Turkish folk dances to music-making, scuba diving to model-making, I'm always trying new ways of expressing and discovering myself.
 </p>
 <br>
 <p align="center">
