@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">Web & Mobile Developer</h3>
 <p align="center">
-Hi! I have a bachelor's degree in computer engineering from Ege University. I'm skilled in both frontend (React) and mobile (React Native) technologies. Also I skilled about application (web & mobile) security. And my passion lies on the creating something useful and valuable, at the intersection of code and human.
+Hi! I have a bachelor's degree in computer engineering from Ege University, Turkey. I'm skilled in both frontend (React) and mobile (React Native) technologies. Also I skilled about application (web & mobile) security. And my passion lies on the creating something useful and valuable, at the intersection of code and human.
 </p>
 <br>
 <p align="center">
