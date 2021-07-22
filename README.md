@@ -1,6 +1,6 @@
 <h1 align="center">Aloha 👋, I'm Onur</h1>
 <p align="center">
-<img width = "8%" align="center" alt="PIC" height="60px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" />
+<img width = "10%" align="center" alt="PIC" height="100%" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" />
 </p>
 <h3 align="center">Web & Mobile Developer</h3>
 <p align="center">
