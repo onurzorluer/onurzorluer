@@ -31,6 +31,6 @@ Outside of these, I like to create in other ways. From Turkish folk dances to mu
   </p>
   <br>
   <div>
-    ![Snake animation](https://github.com/onurzorluer/onurzorluer/blob/output/github-snake.svg)
+    ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
   </div>
 
