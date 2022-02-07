@@ -30,7 +30,7 @@ Outside of these, I like to create in other ways. From Turkish folk dances to mu
 </a>
   </p>
   <br>
-  <p align="center">
+  <div>
     ![Snake animation](https://github.com/onurzorluer/onurzorluer/blob/output/github-snake.svg)
-   </p>
+  </div>
 
