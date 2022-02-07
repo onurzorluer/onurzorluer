@@ -20,7 +20,7 @@ Outside of these, I like to create in other ways. From Turkish folk dances to mu
 <a href="https://linkedin.com/in/onurzorluer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="onur_zorluer" height="30" width="30" /></a>
 </p>
   
-<div>
+<div align="center">
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=onurzorluer&show_icons=true&theme=react" alt="onurzorluer" />
   </p>
@@ -31,6 +31,7 @@ Outside of these, I like to create in other ways. From Turkish folk dances to mu
   </a>
   </p>
   <br>
-    ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-  </div>
+
+![](https://github.com/onurzorluer/onurzorluer/blob/output/github-contribution-grid-snake.svg)
+</div>
 
