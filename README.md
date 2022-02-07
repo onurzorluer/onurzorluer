@@ -29,4 +29,8 @@ Outside of these, I like to create in other ways. From Turkish folk dances to mu
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onurzorluer&repo=exif-auto-rotate&theme=react" />
 </a>
   </p>
+  <br>
+  <p align="center">
+    ![Snake animation](https://github.com/onurzorluer/onurzorluer/blob/output/github-snake.svg)
+   </p>
 
